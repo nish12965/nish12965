@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am Nishant Kumar<br>Currently Studing in Motilal Nehru National Institute of Technology Allahabad, Prayagraj<br>
+Full Stack Developer with a strong foundation in the MERN stack and Linux-based development. I enjoy building web applications, designing REST APIs, and solving backend challenges with clean and maintainable code.
 
-
+I’m comfortable working with Linux tools, Git, and modern development workflows, and I’m always curious to learn new technologies and improve my skills. I love turning ideas into practical solutions and am excited to collaborate on projects that create real impact.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishant128) 
 
